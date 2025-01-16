@@ -1,0 +1,172 @@
+﻿Business innovations with AI
+AI is thought to be one thing but in reality it is 3 things
+1. Artificial narrow intelligence (ANI): AI that can do only one thing (drive a car, recommenders), is the only AI that existed until about 2020
+* Supervised ANI: using historical data to find predictive data (SK learn), prescriptive analytics is if you were to change variables to find a better solution
+* Unsupervised ANI:
+2. Artificial general intelligence (AGI): AL with cognitive human function, can emulate most of the reasoning, logic and cognitive function of humans (large language models, and GPTs) is not real
+3.  Artificial super intelligence (ASI): AI with one job to create new AI through code to make itself better (Matrix, terminator)
+* AI: machines that emulate the capabilities of humans, human can do (a robot running from one side of the room to another), can be a knowledge base or database
+* Machine learning: machine emulate the capabilities of human learning, only the learning capabilities of humans, recommendations on amazon
+* Deep learning: emulate the learning capabilities of humans by modeling the structure of the human brain
+* Gen AI: type of deep learning, for the first time in human history machines can emulate short term memory, chatGPT
+
+
+A data scientist must be able to use AI, machine learning, and deep learning on business problems
+
+
+Think of AI as a simple input to output map
+* All AI does is turn one dataset into another data set
+* Ex: input dataset (spreadsheet, matrix) then run the data through a function and it will output a new matrix, it may have one or more elements, the output is the prediction 
+* All we need to know is what the math function will be to get us from point A (input) to point B (output) 
+
+
+Caveman definition of AI terms:
+* The neural network finds one and only one pattern in the data, every neuron gets all of the data and finds a specific pattern
+* Ex: one neural network will find information on the fertilizer score and can figure out how fast the oranges will grow, it can test different scenarios to predict things within the outcome prediction
+* The neurons all find their one pattern and then combine to predict the final outcome (yield of orange groves in example)
+* All you need to do is get data and put into the neural network and on its own, the network can figure out tree health and grown rate, then combine to make the output, all that you need to do it provide the data, it can learn on its own what patterns in the data contribute to the prediction (outcome)
+* The neurons are like members of a counsel 
+* The neural network gets better the more input you give it, whoever has the most data and resources can make it more and more powerful
+* Bubbles are the input and each line being drawn to a new bubble is a pattern found and sent to another layer (edges, then further one is features) of the data where it finds another pattern and continues 
+
+
+Google invented big data
+To advance the GPTs there are not any major architectural changes, they only gave it more data
+
+
+When training an AI on how to predict the next word in an amazon review, there was one neuron that figured out how to do sentiment analysis and would predict whether the review was going to be positive or negative to help figure out the next word, the neuron figured out how to tell what the writer was feeling, it had to grasp how humans feel in order to do its goal, open AI figured out that the neuron taught itself this after it was already released to the world, it then was asked biological questions and it was immediately masters PHD level
+
+
+Theory of mind: ability to understand and predict the thoughts and feelings of others, looking for cues to show that someone else understands you and that both of your mental constructs are aligned 
+* This is how GPT models are tested, they are good at understanding our thoughts 
+* Why is this model trying to understand how people think?
+* Most of the advancements recently has been this AI edging closer to understanding and experiencing human emotions
+* AI is effectively digesting everything that is out there, if the AI touches it, it becomes part of the AIs ethos, part of the AI, in order for it to give you convincing replies, it has to fully understand the human experience (including cultural differences, language barriers, etc.)
+
+
+What we are witnessing now is extending knowledge at an unprecedented scale, the more it reads, the more it is developing, piecing together a comprehensive model of the world all to just be more accurate 
+
+
+Language as a shadow of reality
+* It is a simplified version of our reality, GPT is learning to interpret language shadows to learn reality and reconstruct it based on the text and the words that we generate, it is using language to build a model of the world, by analyzing videos we can learn more through facial expressions and body language which is even deeper than language, it can give GPT more computing power as it would be able to retrieve more data, 
+* We are enabling AI to find the language shadows 
+
+
+AGI
+* The ability to understand, learn, and apply across a wide range of human tasks 
+* Alignment: applications mention building an aligned ai, it follows instructions and also aligns with human morals and ethics and values
+* Alignment is key to making sure the technology acts in our best interest 
+* It is scary that these technologies have the power to push other people's values onto us, if misaligned, would be very bad
+* You can use the models as is but are accepting the values and ethics of the creator, or you can fine tune it with your data or build your own to control the values being pushed onto your outputs
+
+
+
+
+Lecture 2
+Exploring AI and machine learning for the enterprise 
+What is AI? Introduction
+* Ai is creating tremendous amounts of value in every industry
+* In sectors such as retail, travel, transportation, automotive, materials, manufacturing, healthcare and so on
+* Narrow AI: does one think really well (siri, self driving cars, spell check, etc.)
+* General AI: AI that does anything that a human can do (large language models is the first taste of it)
+
+
+What you’ll be learning, what is data analytics/data science
+* Machine learning 
+* Data 
+* AI organizations
+* What can you really do with this?
+* Deep learning
+
+
+What is machine learning?
+Machine learning
+* The rise of AI has been largely driven by one tool in AI: machine learning
+
+
+Input -> Process -> Output
+	Use Cases
+	User information -> MODEL -> click?
+	Social media, online advertising 
+	Email -> model -> spam
+	Spam filter
+	Video -> model -> transcript
+	Speech recognition
+	Shopping history -> model -> offers
+	Recommender systems
+	English -> model -> spanish
+	Speech translation 
+	Product image -> model -> defective
+	QA
+	
+
+Why now?
+* This data has been around since the 60s
+* Now google shard data so part of the data runs on different machines so someone could create an infinitely large database because each part is connected together
+* When someone needs it they take the code and send it to the machine which then sends back a result 
+* Things have really taken off because we have so much data with everything being connected via the internet
+
+
+Machine learning
+* What enables AI to work really well is data
+
+
+Acquiring data
+* Is always messy, it is an underrated skill to be able to clean up data
+* It is a huge cost to access the data
+* Mechanical turk: people doing small tasks for amazon to get better, human intelligence service, people labeling data
+* Manual labeling
+* From observing behaviors
+* Download from websites/partnership
+
+
+Use and misuse of data
+* Don’t throw data at an AI team and assume it will be valuable
+
+
+Data is messy
+* Garbage in, garbage out
+* Data problems
+* Incorrect labels
+* Missing values
+* Multiple types of data
+* Structured data: data table etc. still needs to be cleaned
+* Unstructured data: images, audio, text
+* *** Sora makes short videos
+
+
+Machine learning vs data science 
+* Machine learning engineers are the ones who run models and need to know code etc
+* They do not have business experience
+* Data scientist is more valuable because they create solutions and find insights in the data 
+* Machine learning: field of study that gives computers the ability to learn without being explicitly programmed
+* Data science: science of extracting knowledge and insights from data
+
+
+Deep learning
+* Type of AI that models the human brain, having neurons that identify different patterns in the data
+* They are the most powerful technology that has been created
+
+
+What makes an AI company?
+A lesson from the rise of the internet
+* Internet era
+* Shopping mall + website /= internet company
+* A/B testing
+* Short iteration time
+* Decision making pushed down to engineers and other specialized roles
+* AI era
+* Any company + deep learning /= AI company
+* Strategic data acquisition
+* Unified data warehouse 
+* Pervasive automation
+* New roles (ex: MLE) and division of labor 
+* AI transformation 
+1. Execute pilot projects to gain momentum
+2. Build an in-house AI team
+3. Provide broad AI training
+4. Develop and AI strategy
+5. Develop internal and external communications
+
+
+*** anything you can do with a second of thought, we can probably now or soon automate
